@@ -1,0 +1,1 @@
+experiment_id,date,configuration,depth_window,gpu_type,num_gpus,runtime_seconds,throughput,peak_gpu_memory_gb,gpu_utilization_percent,notes
