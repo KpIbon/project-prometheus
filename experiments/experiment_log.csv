@@ -1,1 +1,1 @@
-experiment_id,date,configuration,depth_window,gpu_type,num_gpus,runtime_seconds,throughput,peak_gpu_memory_gb,gpu_utilization_percent,notes
+experiment_id,date,dataset,segment,configuration,depth_window,random_seed,num_gpus,gpu_type,runtime_seconds,gpu_hours,patches_processed,throughput,peak_gpu_memory_gb,gpu_utilization_percent,iou,dice,voxel_agreement,prediction_variance,notes
